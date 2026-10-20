@@ -1,5 +1,7 @@
 # OBJ to GLB Converter (PyQt5 GUI)
 
+> **Project page:** [Depth2STL and Obj2GLB](https://bigblueceiling.com/projects/3d-conversion-tools/) on [Big Blue Ceiling](https://bigblueceiling.com/)
+
 This project provides a user-friendly PyQt5-based desktop application for converting `.obj` 3D model files (along with optional `.mtl` and texture files) into the `.glb` (GLTF Binary) format. It supports vertex colors if present in the OBJ file and handles associated material and texture files by maintaining relative paths during conversion.
 
 ## Features
